@@ -15,6 +15,12 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+img{
+height:250px;
+width:240px;
+
+}
+
 .title_container{
     display: flex;
     font-size: 80px;
